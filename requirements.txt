@@ -1,0 +1,3 @@
+lambeq
+spacy
+matplotlib
